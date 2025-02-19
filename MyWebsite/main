@@ -1,1 +1,16 @@
-
+<!doctype HTML>
+<HTML>
+<HEAD>
+<TITLE>Trey Cashon's Website!</TITLE>
+</HEAD>
+<BODY>
+<H1>This is my website! And my name is Trey :] <H1>
+<H2>Hobbies</H2>
+<H5><a HREF="hobby1.html">Video Game Programming</a></H5>
+You can check them out at MstrMnd9.itch.io
+<H5><a HREF="hobby2.html">Knitting</a></H5>
+I make stuff with yarn!
+<H5>Rock Climbing</H5>
+I go rock climbing about once a week (even though it hurs my hands)
+</BODY>
+</HTML>
